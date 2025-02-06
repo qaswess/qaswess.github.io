@@ -1,0 +1,30 @@
+body{
+    color: rgb(117, 49, 49);
+    background-color: rgb(36, 87, 87);
+    background-image: url(https://meradog.ru/upload/pictures/1609271651071120_big.png);
+    background-size: cover;
+    text-align: center;
+}
+    .logo{
+        width: 100px;
+        box-shadow: 5px 10px 15px rgb(red, green, blue);
+    }
+    .logo:hover{
+        width: 150px;
+    }
+    .cloude{
+        font-family: verdana, geneva, tahoma, sans-serif;
+        font-size: 40px;
+        color: blueviolet;
+        text-shadow: (0, 255, 255);
+    }
+    .cloude:hover{ 
+     color: blanchedalmond;
+    }
+
+.desk_os{
+    border: 7px solid color rebeccapurple;
+    border-radius: 40px;
+    background-color: rgba(rgb(109, 35, 35), rgb(99, 37, 88), rgb(34, 34, 99));
+    box-shadow: 10px 20px 25px;
+}
